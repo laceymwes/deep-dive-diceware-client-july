@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.dicewareclient;
+package edu.cnm.deepdive.mwl_dicewareclient;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
